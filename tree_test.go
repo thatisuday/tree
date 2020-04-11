@@ -16,7 +16,8 @@ func TestRootCommand(t *testing.T) {
 	lines := []string{
 		`├── .github`,
 		`|  └── workflows`,
-		`|     └── ci.yml`,
+		`|     ├── ci.yml`,
+		`|     └── release.yml`,
 		`├── LICENSE`,
 		`├── README.md`,
 		`├── assets`,
