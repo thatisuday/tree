@@ -1,6 +1,7 @@
 # tree
 ![go-version](https://img.shields.io/github/go-mod/go-version/thatisuday/tree?label=Go%20Version) &nbsp;
-![Build](https://github.com/thatisuday/tree/workflows/CI/badge.svg?style=flat-square)
+![CI](https://github.com/thatisuday/tree/workflows/CI/badge.svg?style=flat-square) &nbsp;
+![release](https://github.com/thatisuday/tree/workflows/release/badge.svg?style=flat-square)
 
 A command-line tool to print the contents of a relative or an absolute directory in a tree-like format. It conditionally displays file size and file mode in a neat and colorful format.
 
